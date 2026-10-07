@@ -4,7 +4,8 @@ Final-year B.Tech CSE student (graduating 2027) | Backend and Full-Stack Develop
 
 I build backend systems and AI-powered web applications with Node.js and MongoDB. I care most about correctness: consistent data, secure authentication, and validating what goes in and out of a system. I am looking for SDE roles in backend or full-stack development.
 
-[LinkedIn](...) | [LeetCode](...) | [saqibsiddiqui380@gmail.com](mailto:saqibsiddiqui380@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/noorsaqib/) | [LeetCode](https://leetcode.com/u/noorsaqib/) | [saqibsiddiqui380@gmail.com](mailto:saqibsiddiqui380@gmail.com)
+
 ---
 
 ## Projects
