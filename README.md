@@ -4,14 +4,14 @@ Final-year B.Tech CSE student (graduating 2027) | Backend and Full-Stack Develop
 
 I build backend systems and AI-powered web applications with Node.js and MongoDB. I care most about correctness: consistent data, secure authentication, and validating what goes in and out of a system. I am looking for SDE roles in backend or full-stack development.
 
-[LinkedIn](https://www.linkedin.com/in/noor-saqib-2b7154257/) | [LeetCode](https://leetcode.com/u/noorsaqib/) | [Email](mailto:your-email@example.com)
+[LinkedIn](https://www.linkedin.com/in/noorsaqib/) | [LeetCode](https://leetcode.com/u/noorsaqib/) | [Email](saqibsiddiqui380@gmail.com)
 
 ---
 
 ## Projects
 
 ### PrepPilot: AI Interview Preparation Platform
-[Repository](https://github.com/Saqib-Noor-05/PrepPilot--An-AI-Powered-Interview-Preparation-Platform) | [Live demo](#)
+[Repository](https://github.com/Noor-Saqib/PrepPilot--An-AI-Powered-Interview-Preparation-Platform) 
 
 Takes a candidate's resume and a target job description, then generates a profile match score, skill gaps, technical and behavioral interview questions, and a preparation plan. It can also export an ATS-friendly resume as a PDF.
 
@@ -21,7 +21,7 @@ Takes a candidate's resume and a target job description, then generates a profil
 **Stack:** React, Node.js, Express, MongoDB, Gemini API, Zod, Puppeteer
 
 ### Advanced Banking Backend System
-[Repository](https://github.com/Saqib-Noor-05/Advanced-Banking-Backend-System)
+[Repository](https://github.com/Noor-Saqib/Advanced-Banking-Backend-System)
 
 Backend for a banking application, built around transaction safety rather than basic CRUD.
 
@@ -33,7 +33,7 @@ Backend for a banking application, built around transaction safety rather than b
 **Stack:** Node.js, Express, MongoDB, Mongoose, JWT, bcrypt
 
 ### Spotify-inspired Backend
-[Repository](https://github.com/Saqib-Noor-05/Spotify-inspired-backend-Project)
+[Repository](https://github.com/Noor-Saqib/Spotify-inspired-backend-Project)
 
 REST API for a music streaming platform with JWT authentication, MongoDB storage, and file uploads through ImageKit.
 
